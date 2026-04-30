@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zapatos>
+   <Converse>
+      <nombre>Carlos</nombre>
+      <precio>carlos@secretaria.com</precio >
+   </converse>
+    <receptor>
+    <nombre>Alberto</nombre>
+    <email>alberto@profesor.com</email>
+    </receptor>
+    <Asunto>Excursion</Asunto>
+    <texto>
+       <parrafo1>Hola, ¿que tal?</parrafo1>
+       <parrafo2>Te escribo para confirmar la excursion del jueves</parrafo2>
+       <parrafo3>Un saludo</parrafo3>
+    
+    
+    
+    
+    
+    
+    </texto>
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ </zapatos>
